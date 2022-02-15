@@ -1,0 +1,16 @@
+3487372 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{0}: merge develop: Fast-forward
+c3c5134 (origin/master, master) HEAD@{1}: checkout: moving from develop to main
+3487372 (HEAD -> main, origin/main, origin/develop, origin/HEAD, develop) HEAD@{2}: commit (merge): changing develop branch
+736f2dc (origin/images, images) HEAD@{3}: merge images: Fast-forward
+9c3be71 HEAD@{4}: checkout: moving from styles to develop
+2bcce62 (origin/styles, styles) HEAD@{5}: commit: changing index.html
+e952a0d HEAD@{6}: commit: adding styles folder
+9c3be71 HEAD@{7}: checkout: moving from develop to styles
+9c3be71 HEAD@{8}: checkout: moving from images to develop
+736f2dc (origin/images, images) HEAD@{9}: commit: changing index.html
+26d9e6a HEAD@{10}: commit: adding some images
+9c3be71 HEAD@{11}: checkout: moving from develop to images
+9c3be71 HEAD@{12}: commit: adding index.html
+c3c5134 (origin/master, master) HEAD@{13}: checkout: moving from main to develop
+c3c5134 (origin/master, master) HEAD@{14}: commit: adding readme.txt
+275c8ea HEAD@{15}: clone: from https://github.com/dvpsepam/DevOps_online_Lutsk_2022Q1Q2.git
