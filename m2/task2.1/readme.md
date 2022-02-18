@@ -47,10 +47,11 @@ Vagrant - CentOS inst
  
 ![ Vagrant UP ](./images/vgrntUPt_1.jpg )
 
-Connection throgh MobaXterm
+Connection through MobaXterm
 
 ![ Connection throgh MobaXterm ](./images/mobatovagrant.jpg )
 
+Show date on ubuntu
 
 ![ Date on Ubuntu ](./images/VgrDate_on_ubuntu.jpg )
 
