@@ -11,7 +11,7 @@ Snapshot of instance
 
 ![ Snapshot of instance ](./images/3SnapShot1.jpg)
 
-![ Snapshot of instance(./images/3_1SnapShot1.jpg)
+![ Snapshot of instance ](./images/3_1SnapShot1.jpg)
 
 Attaching the volume
 
