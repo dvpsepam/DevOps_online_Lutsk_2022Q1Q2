@@ -85,7 +85,7 @@ ECR from CLI
 
 ecr from AWS console
 
-![  ECR from CLI ](./images/8_ecrAWS.jpg)
+![  ECR from CLI ](./images/8_ecrAws.jpg)
 
 ECR push command
 
