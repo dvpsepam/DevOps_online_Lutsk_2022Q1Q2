@@ -81,7 +81,7 @@ ECR from CLI
 
 ![ ECR from CLI ](./images/8_ecr1.jpg)
 
-![  ECR from CLI ](./images/8_ecr2.jpg)
+![  ECR from CLI ](./images/8_ecr2.jpg) 
 
 ecr from AWS console
 
